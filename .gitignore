@@ -1,2 +1,1 @@
-# Ignore any .env file anywhere in repo
-**/.env
+Langchain_models/.env
